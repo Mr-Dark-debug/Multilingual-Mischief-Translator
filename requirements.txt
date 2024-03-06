@@ -1,0 +1,4 @@
+streamlit==1.31.1
+googletrans==4.0.0-rc1
+pandas==2.2.1
+numpy==1.26.4
