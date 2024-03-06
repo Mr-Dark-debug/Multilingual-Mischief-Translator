@@ -22,6 +22,8 @@ Enter your English text and click the "Translate" button to unleash the linguist
 ## Access it Online
 You can experience the language mayhem directly online! Visit Multilingual Mischief Translator and let the linguistic journey begin!
 
+### https://multilingual-mischief-translator.streamlit.app/
+
 ## Disclaimer
 This project is not responsible for any confusion, misunderstandings, or diplomatic incidents caused by the generated translations. Use it at your own risk and with a pinch of humor! 😅
 
